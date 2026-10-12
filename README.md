@@ -15,6 +15,7 @@ Browse platforms and choose where to launch your product:
 
 | Link | Description |
 | --- | --- |
+| [StarTap](https://startap.cc) | Free maker submissions and public project pages, with category browsing and a 3D clicker game. |
 | [AI Tools Marketer](https://aitoolsmarketer.com/submit/) |  |
 | [AI Tooltips](https://aitooltips.com/add-tool/) | Curated directory of AI tools and resources. |
 | [Brainik](https://brainik.com/directory/?wpbdp_view=submit_listing) |  |
